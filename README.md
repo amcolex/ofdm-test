@@ -27,7 +27,7 @@ that was transmitted.
 
 ## Impairments
 - Realistic multipath channel derived from field measurements (lots of multipath!) and noise.
-- Simulating 2 real radios which might have small oscillators differences..
+- Simulating sending and receiving between real radios which might have small oscillators differences..
 
 
 ## Payload Hint

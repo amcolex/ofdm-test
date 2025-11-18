@@ -26,7 +26,7 @@ that was transmitted.
 - Mapping order: start with the lowest negative-frequency carrier (−600) and progress upward, skipping DC.
 
 ## Impairments
-- Realistic multipath channel derived from field measurements (lots of multipath!) and noise.
+- Realistic multipath channel derived from field measurements (VERY LONG multipath!) and noise.
 - Simulating sending and receiving between real radios which might have small oscillators differences..
 
 

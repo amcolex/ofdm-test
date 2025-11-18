@@ -1,0 +1,27 @@
+{
+  "global": {
+    "core:datatype": "cf32_le",
+    "core:sample_rate": 30720000.0,
+    "core:version": "1.0.0",
+    "core:description": "Single-symbol OFDM challenge for demodulation exercises.",
+    "core:author": "Flyability OFDM test generator",
+    "fly:fft_size": 2048,
+    "fly:cp_length": 512,
+    "fly:num_active_subcarriers": 1200
+  },
+  "captures": [
+    {
+      "core:frequency": 2400000000.0,
+      "core:sample_start": 0,
+      "core:sample_count": 8120,
+      "core:datetime": "2024-01-01T00:00:00Z"
+    }
+  ],
+  "annotations": [
+    {
+      "core:sample_start": 0,
+      "core:sample_count": 8120,
+      "core:description": "OFDM frame"
+    }
+  ]
+}
